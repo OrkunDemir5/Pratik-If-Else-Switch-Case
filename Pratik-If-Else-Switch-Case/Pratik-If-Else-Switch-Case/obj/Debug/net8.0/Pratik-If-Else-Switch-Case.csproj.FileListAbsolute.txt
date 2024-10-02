@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\bin\Debug\net8.0\Pratik-If-Else-Switch-Case.exe
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\bin\Debug\net8.0\Pratik-If-Else-Switch-Case.deps.json
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\bin\Debug\net8.0\Pratik-If-Else-Switch-Case.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\bin\Debug\net8.0\Pratik-If-Else-Switch-Case.dll
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\bin\Debug\net8.0\Pratik-If-Else-Switch-Case.pdb
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\Pratik-If-Else-Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\Pratik-If-Else-Switch-Case.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\Pratik-If-Else-Switch-Case.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\Pratik-If-Else-Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\Pratik-If-Else-Switch-Case.dll
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\refint\Pratik-If-Else-Switch-Case.dll
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\Pratik-If-Else-Switch-Case.pdb
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\Pratik-If-Else-Switch-Case.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-If-Else-Switch-Case\Pratik-If-Else-Switch-Case\obj\Debug\net8.0\ref\Pratik-If-Else-Switch-Case.dll
