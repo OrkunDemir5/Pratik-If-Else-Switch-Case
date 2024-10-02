@@ -1,7 +1,8 @@
 ﻿//Bu tür bir problemi Switch-Case kullanmak pratik olacaktır çünkü enum kullanırsak enum değerlerini otomatik olarak verecektir.
 
 // Kullanıcıdan hangi meyveyi satın alacak
-Console.Write("Hangi meyveyi satın almak istiyorsunuz? ");
+Console.WriteLine("Rüya manavında fiyatlar çok uygun!\nElma = 2 TL\nArmut = 3 TL\nÇilek = 2 TL\nMuz = 3 TL\nDiğer bütün meyveler = 4 TL");
+Console.WriteLine("Hangi meyveyi satın almak istiyorsunuz? ");
 string meyve = Console.ReadLine().ToLower(); // burda küçük harfe çeviriyoruz.
 
 //////////////////////////  İF - ELSE KARAR YAPILARI //////////////////////////
